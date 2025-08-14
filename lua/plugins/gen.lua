@@ -1,7 +1,7 @@
 return {
   "David-Kunz/gen.nvim",
   opts = {
-    model = "lianghsun/Llama-3.2-Taiwan-3B-Instruct-GGUF", -- The default model to use.
+    model = "lmstudio-community/gemma-3n-E4B-it-MLX-4bit", -- The default model to use.
     quit_map = "q", -- set keymap to close the response window
     retry_map = "<c-r>", -- set keymap to re-send the current prompt
     accept_map = "<c-cr>", -- set keymap to replace the previous selection with the last result
